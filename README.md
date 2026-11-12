@@ -1,6 +1,6 @@
 # Hi there, I'm [Mayssa Addali Baroudi] 👋
 
-### 🎓 Master's Student in Embedded Systems & IoT
+ 🎓 Master's Student in Embedded Systems & IoT
 
 I am a Computer Engineering graduate and am currently pursuing a Master's degree in Embedded Systems and IoT at ISIMG, Tunisia.
 
