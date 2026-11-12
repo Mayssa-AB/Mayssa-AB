@@ -1,4 +1,4 @@
- Hi there, I'm [Mayssa Addali Baroudi] 👋
+ Hi there, I'm Mayssa Addali Baroudi 👋
 
  🎓 Master's Student in Embedded Systems & IoT
 
