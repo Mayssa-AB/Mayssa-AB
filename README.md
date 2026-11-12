@@ -1,4 +1,4 @@
-# Hi there, I'm [Mayssa Addali Baroudi] 👋
+ Hi there, I'm [Mayssa Addali Baroudi] 👋
 
  🎓 Master's Student in Embedded Systems & IoT
 
@@ -8,7 +8,7 @@ I am passionate about developing intelligent systems combining hardware, softwar
 
 ---
 
-### 💻 Technical Skills
+ 💻 Technical Skills
 
 **Programming Languages**
 - C / C++
@@ -42,7 +42,7 @@ I am passionate about developing intelligent systems combining hardware, softwar
 
 ---
 
-### 📫 Contact Me
+📫 Contact Me
 
 - LinkedIn: https://www.linkedin.com/in/mayssa-addali-baroudi-37072724a/
 - Email: baroudimayssa0@gmail.com
